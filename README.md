@@ -53,7 +53,8 @@ The activity sheet may mention submitting a database export, but that conflicts 
 
 ## Student submission steps
 
+The project repository is available at <https://github.com/Nathanielnaw/Tech1-EMBUSCADO->.
+
 1. Run the project locally and verify the four routes.
-2. Create or use an authorized GitHub repository, commit this project, and submit its repository URL.
-3. Deploy the application to an authorized hosting service whose document root points to the `public` directory, then submit the hosted URL.
-4. Do not claim repository or hosting links until you have created and verified them. No GitHub repository or hosted application has been created by this project setup.
+2. Submit the GitHub repository URL above.
+3. Deploy the application to an authorized hosting service whose document root points to the `public` directory, then submit the hosted URL. No hosted application has been created or verified yet.
