@@ -6,14 +6,14 @@
     <p>Sample staff records for the POS application.</p>
     <table>
         <thead>
-            <tr><th>Username</th><th>Full name</th><th>Role</th></tr>
+            <tr><th>Username</th><th>Full name</th><th>Created at</th></tr>
         </thead>
         <tbody>
         <?php foreach ($users as $user): ?>
             <tr>
                 <td><?= esc($user['username']) ?></td>
                 <td><?= esc($user['full_name']) ?></td>
-                <td><?= esc($user['role']) ?></td>
+                <td><?= esc($user['created_at']) ?></td>
             </tr>
         <?php endforeach; ?>
         </tbody>
